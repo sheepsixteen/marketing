@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css"
+    />
+    <link rel="stylesheet" href="{{ "/css/style.css" | relative_url }}">
+
+    {% seo %}
+  </head>
+  <body class="sans-serif">
+    {{ content }}
+  </body>
+</html>

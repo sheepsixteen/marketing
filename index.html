@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+{% include nav.html %}
+
+<section class="mh5 br4 hero pa3 tc flex flex-column justify-center items-center">
+  <div class="text-wrapper">
+    <h1 class="f2 mb4 white b measure black-90">
+      Project-based computer science learning.
+    </h1>
+    <p class="measure white db center f4 lh-title black-70">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe earum, at
+      obcaecati odit totam inventore.
+    </p>
+    <div class="db">
+      <a href="/contact" class="button mt3 center">
+        Contact Us
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="features flex flex-column items-center">
+  <h2 class="f4 black-80 courier pt5 db">Features</h2>
+
+  {% for feature in site.data.features %}
+  <div class="feature mv4 measure">
+    <div class="mw5 center">
+      <img
+        class="center w-100"
+        src="{{ feature.icon }}"
+        alt="{{ feature.title }}"
+      />
+    </div>
+    <h3 class="black-90 f2 normal lh-title measure tc mb0">
+      {{ feature.title }}
+    </h3>
+    <p class="f4 lh-copy tc measure black-70">{{ feature.description }}</p>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="stats mb4 mt5 bg-lightest-blue flex flex-column items-center pv5">
+  <h2 class="f4 black-70 courier db">Project-based learning</h2>
+
+  <p class="f3 measure lh-copy tc">
+    The stats are with us, <span class="number">1000</span> somethings are doing
+    <span class="number">2000</span> somethings. Lorem ipsum dolor sit amet
+    consectetur, adipisicing elit. Maiores pariatur in laborum necessitatibus
+    vitae, nobis at blanditiis modi ex fugiat. Laudantium soluta ratione numquam
+    odio, aliquam nisi veritatis reiciendis vero.
+  </p>
+</section>
+
+<section class="cta mb4 mt5 flex flex-column items-center pv5">
+  <h2 class="f4 mb0 black-70 courier db">Contact us</h2>
+  <p class="f3">
+    So then, please email me here:
+
+    <a href="mailto:contact@sheep16.org">contact@sheep16.org</a>
+  </p>
+  <div class="mw8">
+    <img src="/assets/images/us.jpeg" alt="Drawing of Ori, Yanai, Roey, and Ohad">
+  </div> 
+</section>
+
+<footer class="bg-black-05 pa3">
+  <p>
+    Copyright (c) 2020 Ori Marash
+  </p> 
+</footer>

@@ -1,0 +1,34 @@
+$primary: #9F7AEA
+
+
+.hero
+  height: 70vh
+  background-image: url('/assets/images/hero.png')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.button
+  display: inline-block
+  padding: 24px 80px
+  background-color: $primary
+  border-radius: 12px
+  color: white
+  font-size: 1.5rem
+  text-decoration: none
+  box-sizing: border-box
+  border-bottom: 4px solid black
+  font-weight: bold
+
+  &:hover
+    background-color: darken($primary, 5)
+
+  &:active
+    transform: translateY(4px)
+    border-bottom: none 
+
+.stats p span.number
+  font-family: monospace
+  font-weight: bold
+  color: $primary
+  font-size: 32px
