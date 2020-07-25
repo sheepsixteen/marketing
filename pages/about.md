@@ -4,4 +4,23 @@ title: About
 permalink: /about/
 ---
 
-this is an *about page*
+## Yanai
+Yanai brings a diversified entrepreneurial, programming, and marketing experience. He initiated, managed, and marketed several successful programming and technology educational programs for children and teenagers, teaching classes for different ages in computer science and robotics. He organized hackathons and conferences as an Outreach lead on a FIRST Robotics Competition (FRC) team and conceptualized, planned, and led a lobbying initiative resulting in a change to the national green building standard.
+His extensive programming knowledge and skills in Java, Python, and Assembly, as well as general science knowledge, allowed him to take part as a programmer in the global XENON1T experiment, attempting to prove the existence of dark matter.
+Contributing to the community, Yanai mentored startups at the GreenStart startup academy, founded several robotics teams, and is a frequent lecturer at the Weizmann Institute programs for young adults where he also participates in numerous international excellence programs.
+
+In his spare time, Yanai is an enthusiastic guitar player and songwriter.
+
+
+## Ohad
+
+Ohad started coding at the age of 14 and since then excels in his Java class as well as his conceptual models class. Ohad knows a variety of languages such as: Java, Python, Javascript and also Assembly. Ohad participated in the national chemistry competition in Israel and got to the final stage, along with the top 30 students in the country. Ohad is very good at recursion and also has experience in the past creating games, including a platforming game in Assembly. He is a very good team member and always willing and happy to help his coworkers.
+
+## Ori
+
+Ori (penguoir) has been a developer from a young age. His fondness for programming started at age 12 when he developed a pixel-art game using Scratch with his two classmates. Although this didn’t succeed (surprise, surprise), his love for coding never stopped. Going to lectures, learning through online academies, and reading books, he managed to learn to program.
+Through progressively larger projects, he further developed his skill in programming and web development. These projects include: starting a programming club in his school, adding features to the school Learning Management System, developing a back-end for a commercial website with a quarter-million requests a year, programming calibrators for photomultiplier tubes at the Weizmann Institute of Science, and more.
+
+## Roey
+
+Roey (“revolution”) Eshkar, started coding at the age of 12 and never stopped since, enjoying learning a variety of coding languages while having fun and making some great connections. In addition, Roey is a member of a startup team named Leechy who won a variety of hackathons and competitions such as the BYSCC in Beijing, which is an international competition for start-ups and research projects. In 2019 Roey joined the “beta” program where he is now ranked as a ninja. There he expanded his repertoire of coding skills including learning more about cybersecurity.
