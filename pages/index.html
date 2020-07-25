@@ -1,0 +1,82 @@
+---
+layout: default
+title: SpaceSheep - Project-based computer science learning
+permalink: /
+---
+
+{% include nav.html %}
+
+<section
+  class="mh5-ns mh2 br4 hero pa3 tc flex flex-column justify-center items-center"
+>
+  <div class="text-wrapper">
+    <h1 class="f-subheadline-l f2 mb4 white b measure black-90">
+      Project-based computer science learning, without the work
+    </h1>
+    <p class="measure white-90 db center f3 lh-copy black-70">
+      With SpaceSheep, you can teach computer science online, asynchronously, with no training, no accounts, no worries.
+    </p>
+    <div class="db">
+      <a href="/contact" class="button mt3 center b">
+        Contact Us
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="features flex flex-column items-center pa2">
+  <h2 class="f4 gray courier pt5 db">Features</h2>
+
+  {% for feature in site.data.features %}
+  <div class="feature mv4">
+    <div class="img mw5 center">
+      <img
+        class="center w-100"
+        src="{{ feature.icon }}"
+        alt="{{ feature.title }}"
+      />
+    </div>
+    <div class="text">
+      <h3 class="black-90 f2 near-black normal lh-title measure mb0">
+        {{ feature.title }}
+      </h3>
+      <p class="f4 lh-copy measure mid-gray">{{ feature.description }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+
+<section
+  class="stats pa3 mb4 mt5 bg-lightest-blue flex flex-column items-center pv5"
+>
+  <h2 class="f4 near-white courier db">Project-based learning</h2>
+
+  <p class="f3 measure white lh-copy tc near-black">
+    The stats are with us, <span class="number">1000</span> somethings are doing
+    <span class="number">2000</span> somethings. Lorem ipsum dolor sit amet
+    consectetur, adipisicing elit. Maiores pariatur in laborum necessitatibus
+    vitae, nobis at blanditiis modi ex fugiat. Laudantium soluta ratione numquam
+    odio, aliquam nisi veritatis reiciendis vero.
+  </p>
+</section>
+
+<section class="cta mb4 pa3 mt5 flex flex-column items-center pv5">
+  <h2 class="f4 mb0 gray courier db">Contact us</h2>
+  <p class="f3 tc">
+    So then, please email me here:
+
+    <a href="mailto:contact@sheep16.org">contact@sheep16.org</a>
+  </p>
+  <div class="mw8">
+    <img
+      src="/assets/images/us.jpeg"
+      alt="Drawing of Ori, Yanai, Roey, and Ohad"
+    />
+  </div>
+</section>
+
+<footer class="bg-black-05 pa3">
+  <p>
+    Copyright (c) 2020 Ori Marash
+  </p>
+</footer>

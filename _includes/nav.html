@@ -1,17 +1,54 @@
-<nav class="h4 flex items-center justify-center">
-  <div class="mw8 w-80 flex-ns justify-between items-center mw8 center pv3 ph4 bg-black-05 br3">
-    <a class="flex items-center link black-90 db tc b mb3 mb0-ns w3" href="/">
+<div class="ph3">
+  <div
+    class="mw8 w-100 center mv3 w-80 flex justify-between items-center pv3 pr3 pl2 bg-black-05 br3"
+  >
+    <a class="flex items-center link black-90 db tc b mb0-ns w3" href="/">
       <img src="/assets/images/logo.svg" alt="SpaceSheep logo" />
       <span class="ml2">
-      SpaceSheep
+        SpaceSheep
       </span>
     </a>
 
-    <div class="links flex justify-around">
-      <a class="black-80 mr4 link underline-hover" href="/">Home</a>
-      <a class="black-80 mr4 link underline-hover" href="/about">About Us</a>
-      <a class="black-80 mr4 link underline-hover" href="/features">Features</a>
-      <a class="black-80 link underline-hover" href="/contact">Contact</a>
+    <div class="dn db-l links bg-bottom justify-around">
+      {% for p in site.data.nav %} {% if forloop.last == false %}
+      <a class="black-80 mr4 link underline-hover" href="{{ p.link }}">
+        {{ p.title }}
+      </a>
+      {% else %}
+      <a class="black-80 link underline-hover" href="{{ p.link }}">
+        {{ p.title }}
+      </a>
+      {% endif %} {% endfor %}
     </div>
+
+    <a class="dn-l" id="open-menu" aria-haspopup="true" aria-expanded="false">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 16 16"
+        width="16"
+        height="16"
+      >
+        <path
+          fill-rule="evenodd"
+          d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"
+        ></path>
+        <title>Menu</title>
+      </svg>
+    </a>
   </div>
-</nav>
+</div>
+
+<div class="ph3">
+  <div
+    id="nav-open"
+    class="dn mw8 w-100 mh3 w-80 flex-column justify-between items-center center mb4 ph1 br3"
+  >
+    {% for p in site.data.nav %}
+    <a
+      class="black-80 w-100 pa3 bg-black-05 br2 mb1 link underline-hover"
+      href="{{ p.link }}"
+      >{{ p.title }}</a
+    >
+    {% endfor %}
+  </div>
+</div>

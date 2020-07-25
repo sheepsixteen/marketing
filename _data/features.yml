@@ -4,10 +4,19 @@
     we've done it already. Plus, we build our platform to specifically make
     project-based learning easy to implement by default. You don't have to
     worry about teachers not following the guidance, the site guides them.
-  icon: https://img.icons8.com/clouds/2x/fish.png
-- title: Second feature
-  description: A description of this feature
-  icon: https://img.icons8.com/clouds/2x/fish.png
-- title: First feature
-  description: A description of this feature
-  icon: https://img.icons8.com/clouds/2x/fish.png
+  icon: https://img.icons8.com/flat_round/2x/checkmark.png
+
+- title: Community-created
+  description: >
+    All of our content is open-sourced and maintained by the community. This
+    means we have input from a diverse group of people, helping us create the
+    best content possible.
+  icon: https://img.icons8.com/doodle/2x/community.png
+
+- title: Excellent learning by default
+  description: >
+    Project-based learning has been proven to be an incredibly effective way
+    of teaching computer science. With SpaceSheep, we have built-in the best
+    parts of project-based learning. You don't have to worry about doing it
+    right, you'll do it by accident.
+  icon: https://img.icons8.com/dusk/2x/book.png
