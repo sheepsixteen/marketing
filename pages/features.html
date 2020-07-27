@@ -1,0 +1,31 @@
+---
+layout: page
+title: Features
+permalink: /features/
+---
+
+<p class="lh-copy f4">
+  {{ site.data.features_page.intro }}
+</p>
+
+{% for f in site.data.features_page.features %}
+<section class="mv5 flex-l {% cycle 'flex-row-reverse-l', 'flex-row-l' %}">
+  <div class="mw7 center flex items-center">
+    <div>
+      <img src="{{ f.img }}" alt="{{ f.title }}">
+    </div>
+  </div>
+  <div class="mh4-l w-100 measure-l">
+    <h2 class="f2 lh-title mb0 mid-gray">{{ f.title }}</h2>
+    <p class="lh-copy f4 mt2 mid-gray">{{ f.description }}</p>
+    <ul>
+      {% for item in f.checklist %}
+        <li class="f4 pb3">{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% if forloop.last == false %}
+  <hr class="mv4">
+{% endif%}
+{% endfor %}
