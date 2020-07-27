@@ -5,6 +5,29 @@
 html
   font-family: 'DM Sans', sans-serif
 
+.about_story
+  display: grid
+  grid-template-columns: 1fr 2fr
+  grid-gap: 1rem
+
+  @media screen and (max-width: 60em)
+    grid-template-columns: 1fr
+
+  .left p, .right p:nth-of-type(0)
+    margin-bottom: 0
+
+.people
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr))
+  grid-gap: 2rem
+
+  .person
+    p
+      line-height: 1.5
+      color: #555
+      margin-top: 0
+
+
 .content
   color: #333
   
