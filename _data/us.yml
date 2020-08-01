@@ -1,25 +1,3 @@
-- name: Yanai
-  github: Yanaishaviv
-  bio: >
-    Yanai brings a diversified entrepreneurial, programming, and marketing
-    experience. He initiated, managed, and marketed several successful 
-    programming and technology educational programs for children and teenagers,
-    teaching classes for different ages in computer science and robotics. 
-    He organized hackathons and conferences as an Outreach lead on a FIRST 
-    Robotics Competition (FRC) team and conceptualized, planned, and led a 
-    lobbying initiative resulting in a change to the national green building 
-    standard.
-    His extensive programming knowledge and skills in Java, Python, and Assembly, 
-    as well as general science knowledge, allowed him to take part as a programmer 
-    in the global XENON1T experiment, attempting to prove the existence of dark 
-    matter.
-    Contributing to the community, Yanai mentored startups at the GreenStart startup 
-    academy, founded several robotics teams, and is a frequent lecturer at the
-    Weizmann Institute programs for young adults where he also participates in 
-    numerous international excellence programs.
-
-    In his spare time, Yanai is an enthusiastic guitar player and songwriter.
-
 - name: Ori
   github: penguoir
   bio: >
@@ -57,4 +35,24 @@
     competition for start-ups and research projects. In 2019 Roey joined the 
     “beta” program where he is now ranked as a ninja. There he expanded his 
     repertoire of coding skills including learning more about cybersecurity.  
+- name: Yanai
+  github: Yanaishaviv
+  bio: >
+    Yanai brings a diversified entrepreneurial, programming, and marketing
+    experience. He initiated, managed, and marketed several successful 
+    programming and technology educational programs for children and teenagers,
+    teaching classes for different ages in computer science and robotics. 
+    He organized hackathons and conferences as an Outreach lead on a FIRST 
+    Robotics Competition (FRC) team and conceptualized, planned, and led a 
+    lobbying initiative resulting in a change to the national green building 
+    standard.
+    His extensive programming knowledge and skills in Java, Python, and Assembly, 
+    as well as general science knowledge, allowed him to take part as a programmer 
+    in the global XENON1T experiment, attempting to prove the existence of dark 
+    matter.
+    Contributing to the community, Yanai mentored startups at the GreenStart startup 
+    academy, founded several robotics teams, and is a frequent lecturer at the
+    Weizmann Institute programs for young adults where he also participates in 
+    numerous international excellence programs.
 
+    In his spare time, Yanai is an enthusiastic guitar player and songwriter.
