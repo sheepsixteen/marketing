@@ -6,7 +6,7 @@ permalink: /contact/
 
 You can contact us by **sending us an email**:
 
-> <big><ori@marash.net></big>
+> <big><yanaishavivra@gmail.com></big>
 
 ---
 
