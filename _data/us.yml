@@ -1,24 +1,17 @@
-- name: Yanai
+- name: ינאי
   github: Yanaishaviv
   bio: >
-    Yanai brings a diversified entrepreneurial, programming, and marketing
-    experience. He initiated, managed, and marketed several successful 
-    programming and technology educational programs for children and teenagers,
-    teaching classes for different ages in computer science and robotics. 
-    He organized hackathons and conferences as an Outreach lead on a FIRST 
-    Robotics Competition (FRC) team and conceptualized, planned, and led a 
-    lobbying initiative resulting in a change to the national green building 
-    standard.
-    His extensive programming knowledge and skills in Java, Python, and Assembly, 
-    as well as general science knowledge, allowed him to take part as a programmer 
-    in the global XENON1T experiment, attempting to prove the existence of dark 
-    matter.
-    Contributing to the community, Yanai mentored startups at the GreenStart startup 
-    academy, founded several robotics teams, and is a frequent lecturer at the
-    Weizmann Institute programs for young adults where he also participates in 
-    numerous international excellence programs.
-
-    In his spare time, Yanai is an enthusiastic guitar player and songwriter.
+    ינאי מביא ניסיון מגוון ביזמות, תכנות ושיווק. הוא הקים, ניהל ושווק
+    מספר תוכניות חינוכיות לתכנות וטכנולוגיה לילדים ובני נוער,
+    המעבירות שיעורים לגילאים שונים במדעי המחשב והרובוטיקה.
+    הוא ארגן האקאטונים וכנסים כאחראי הקהילה בקבוצת FRC והגה,
+    תכנן והוביל יוזמת לובי שהובילה לשינוי בתקן הבנייה הירוקה בישראל.
+    הידע והכישורים הנרחבים שלו בתכנות בJava, Python וAssembly,
+    כמו גם הידע הכללי שלו במדע, אפשרו לו לקחת חלק כמתכנת בניסוי
+    ה- XENON1T העולמי, בניסיון להוכיח את קיומו של חומר אפל.
+    כתרומה לקהילה חינך סטארט-אפים באקדמיה לסטארט-אפים
+    GreenStart, הקים מספר קבוצות רובוטיקה, והוא מרצה תכופות
+    בתוכניות מכון ויצמן ודוידסון, שם הוא משתתף גם בתוכניות מצוינות בינלאומיות.
 - name: Ori
   github: penguoir
   bio: >
