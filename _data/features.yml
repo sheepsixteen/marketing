@@ -1,24 +1,20 @@
 # NOTE: this is for the homepage, not the `feautres` page.
 
-- title: Learn by doing, without the hassle
+- title: למידה מהבית או מהכיתה
   description: >
-    No need to spend loads of time working on problems / projects,
-    we've done it already. Plus, we build our platform to specifically make
-    project-based learning easy to implement by default. You don't have to
-    worry about teachers not following the guidance, the site guides them.
+   האתר שלנו נותן לכם את האפשרות לתת לתלמידים ללמוד בצורה עצמאית,
+   בעזרת הדרכה שמובנית באתר. זה מאפשר לכם ללמד את הילדים בכיתה
+   מקרוב ולהשתמש באתר כתרגול, או לתת להם ללמוד דרכו מרחוק כשהם יושבים בבית. 
   icon: https://img.icons8.com/flat_round/2x/checkmark.png
 
-- title: Community-created
+- title: למידה תוך עשייה
   description: >
-    All of our content is open-sourced and maintained by the community. This
-    means we have input from a diverse group of people, helping us create the
-    best content possible.
+    הפלטפורמה הייחודית שלנו מאפשרת לכם לבחור מבין מגוון בעיות שיאפשרו
+    למידה של עקרונות תוכנה בעזרת עשייה והתנסות "hands on".
   icon: https://img.icons8.com/doodle/2x/community.png
 
-- title: Excellent learning by default
+- title: קל לשימוש
   description: >
-    Project-based learning has been proven to be an incredibly effective way
-    of teaching computer science. With SpaceSheep, we have built-in the best
-    parts of project-based learning. You don't have to worry about doing it
-    right, you'll do it by accident.
+    האתר שלנו נבנה כדי לאפשר שימוש פשוט עם כמה שפחות התכוננות מראש,
+    בעזרת תכנים המיועדים במיוחד למערכת החינוך בישראל. 
   icon: https://img.icons8.com/dusk/2x/book.png
