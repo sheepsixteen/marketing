@@ -15,18 +15,9 @@
 - name: Ori
   github: penguoir
   bio: >
-    Ori (penguoir) has been a developer from a young age. His fondness 
-    for programming started at age 12 when he developed a pixel-art game 
-    using Scratch with his two classmates. Although this didn’t succeed 
-    (surprise, surprise), his love for coding never stopped. Going to 
-    lectures, learning through online academies, and reading books, he 
-    managed to learn to program.
-    Through progressively larger projects, he further developed his skill 
-    in programming and web development. These projects include: starting 
-    a programming club in his school, adding features to the school Learning 
-    Management System, developing a back-end for a commercial website with 
-    a quarter-million requests a year, programming calibrators for 
-    photomultiplier tubes at the Weizmann Institute of Science, and more.
+    אורי (penguoir) מפתח תכנה מגיל צעיר. החיבה שלו לתכנות התחילה בגיל 12 כשפיתח משחק אומנות פיקסלים בעזרת Scratch עם שני חברי כיתה. למרות שפיתוח ראשון זה לא הצליח (הפתעה, הפתעה), אהבתו לקידוד לא פסקה מעולם. על ידי השתתפות בהרצאות, למידה אקדמית מקוונת, וקריאת ספרים, אורי העמיק ולמד תכנות באופן עצמאי
+    מיומנותו בתכנות ופיתוח אתרים התפתחה במקביל למעורבותו בפרויקטים שגדלו בהדרגה וכללו: הקמת מועדון תכנות בבית ספרו, הוספת תכונות למערכת ניהול הלמידה של בית הספר, פיתוח back-end עבור אתר מסחרי עם רבע מיליון בקשות לשנה, תכנות כיולים לצינורות פוטו-מכפיליים (photomultiplier) במכון ויצמן למדע , ועוד.  
+
 - name: Ohad
   github: KoolDude99
   bio: >
