@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You can contact us by **sending us an email**:
+מתעניינים באתר שלנו ורוצים לנסות **בחינם**? מוזמנים לשלוח לנו מייל:
 
 > <big><yanaishavivra@gmail.com></big>
 
