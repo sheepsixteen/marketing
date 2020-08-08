@@ -1,24 +1,16 @@
 # NOTE: this is for the homepage, not the `feautres` page.
 
-- title: Learn by doing, without the hassle
+- title: למידה מהבית או מהכיתה
   description: >
-    No need to spend loads of time working on problems / projects,
-    we've done it already. Plus, we build our platform to specifically make
-    project-based learning easy to implement by default. You don't have to
-    worry about teachers not following the guidance, the site guides them.
+   בתקופה מאתגרת וחסרת ודאות, נדרשים כלי לימוד חדשניים וגמישים המאפשרים לימוד מרחוק ובהתאמות הנדרשות ללימוד כזה, אך גם גמישות ללימוד בכיתה באופן יותר מסורתי, וכמובן שילוב בינהם. זו בדיוק תפיסת עולמנו.    
   icon: https://img.icons8.com/flat_round/2x/checkmark.png
 
-- title: Community-created
+- title: למידה תוך עשייה
   description: >
-    All of our content is open-sourced and maintained by the community. This
-    means we have input from a diverse group of people, helping us create the
-    best content possible.
+    שימוש באתר מנחה את התלמיד, צעד אחר צעד, בבחירת משימות והנחיה בפתרונן תוך כדי הקניית עקרונות ולימוד שפת התכנות. הפלטפורמה הייחודית כוללת מגוון בעיות רחב שהופכות את הלימוד למשחק מאתגר, מושכת את התלמיד להמשיך לאתגר הבא, ומאפשרת התנסות מעשית ויצירה עצמאית.   
   icon: https://img.icons8.com/doodle/2x/community.png
 
-- title: Excellent learning by default
+- title: לימוד עצמאי או משלים
   description: >
-    Project-based learning has been proven to be an incredibly effective way
-    of teaching computer science. With SpaceSheep, we have built-in the best
-    parts of project-based learning. You don't have to worry about doing it
-    right, you'll do it by accident.
+    הלימוד והדרכה המובנים בכלי זה פותחים לראשונה את ההזדמנות גם למורים ללא כל ידע מוקדם במדעי המחשב או בתכנות לאפשר לתלמידיהם ללמוד תכנות (ואף ללמוד איתם). ועבור מורים למדעי המחשב, יוכל לשמש הכלי להעשרה, הרחבת ידע, ותרגול מעשי לתלמידיהם בקצב מותאם אישית.  
   icon: https://img.icons8.com/dusk/2x/book.png
