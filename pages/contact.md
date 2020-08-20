@@ -6,7 +6,7 @@ permalink: /contact/
 
 מתעניינים באתר שלנו ורוצים לנסות **בחינם**? מוזמנים לשלוח לנו מייל:
 
-> <big><yanaishavivra@gmail.com></big>
+> <big><support@sheep16.org></big>
 
 ---
 
