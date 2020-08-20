@@ -3,22 +3,20 @@
     class="mw8 w-100 center mv3 w-80 flex justify-between items-center pv3 pr2 pl3 bg-black-05 br3"
   >
     <a class="flex items-center link black-90 db tc b mb0-ns w3" href="/">
-      <img src="/assets/images/logo.svg" alt="SpaceSheep logo" />
+      <img src="/assets/images/icon.png" alt="SpaceSheep logo" />
       <span class="mr2">
         SpaceSheep
       </span>
     </a>
 
     <div class="dn db-l links bg-bottom justify-around">
-      {% for p in site.data.nav %} {% if forloop.last == false %}
-      <a class="black-80 mr4 link underline-hover" href="{{ p.link }}">
-        {{ p.title }}
-      </a>
-      {% else %}
-      <a class="black-80 link underline-hover" href="{{ p.link }}">
-        {{ p.title }}
-      </a>
-      {% endif %} {% endfor %}
+      {% for p in site.data.nav %}
+        {% if forloop.last == false %}
+          <a class="black-80 mr4 link underline-hover" href="{{ p.link }}">{{ p.title }}</a>
+        {% else %}
+          <a class="black-80 link underline-hover" href="{{ p.link }}">{{ p.title }}</a>
+        {% endif %}
+      {% endfor %}
     </div>
 
     <a class="dn-l" id="open-menu" aria-haspopup="true" aria-expanded="false">
