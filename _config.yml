@@ -1,11 +1,12 @@
 title: SpaceSheep
 email: spacesheep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A description
+  לימוד פייתון באופן עצמאי לילדי כיתות ז'-ט' מהכיתה או מהבית
 baseurl: ""
 url: "https://spacesheep.dev"
 twitter_username: sheepsixteen
 github_username: sheepsixteen
+lang: he
 
 
 # No theme
