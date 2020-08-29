@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Contact
+title: צור קשר
 permalink: /contact/
 ---
 
+<div class="f3">
+
 מתעניינים באתר שלנו ורוצים לנסות **בחינם**? מוזמנים לשלוח לנו מייל:
 
-> <big><support@sheep16.org></big>
-
----
-
-You can also subscribe to our email newsletter here:
-<div class="mt4">
-  {% include subscribe.html %}
 </div>
+
+<div class="f2 mt3">
+  <a class="link" href="mailto:support@sheep16.org">support@sheep16.org</a>
+</div>
+
