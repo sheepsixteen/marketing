@@ -58,10 +58,10 @@ permalink: /demo/
 
 פתחו את סביבת ההרצה שלכם והקלידו את הקוד הבא
 
-<div dir="ltr" class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="c1"># Username and password
-</span>  <span class="n">correct_username</span> <span class="o">=</span> <span class="s">"admin"</span>
-  <span class="n">correct_password</span> <span class="o">=</span> <span class="s">"password"</span>
-</code></pre></div></div>
+```python
+username = # get the input from the user
+password = # get the password from the user
+```
 
 <details>
 <summary>הערה לגבי הקוד</summary>

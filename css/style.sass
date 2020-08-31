@@ -28,14 +28,15 @@ html
       margin-top: 0
 
 .demo-content
-  width: 40em
+  max-width: 40em
+  width: 100%
   margin: 0 auto
 
 .content
   color: #333
 
   img
-    max-width: 30em
+    width: 100%
     display: block
     margin: 0 auto
   
@@ -45,6 +46,7 @@ html
 
   pre
     padding: 12px
+    overflow-x: scroll
 
   blockquote
     margin-right: 0
@@ -52,6 +54,12 @@ html
     font-style: italic
     color: #444
     border-right: 2px solid gray
+
+  summary
+    margin: 16px 0
+
+  li
+    margin-bottom: 8px
 
 @import 'home'
 @import 'newsletter'
