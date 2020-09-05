@@ -1,6 +1,6 @@
 ---
 layout: page
-title: הודות
+title: תודות
 permalink: /thanks/
 ---
 
